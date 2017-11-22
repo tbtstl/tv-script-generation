@@ -1,0 +1,10 @@
+embedding_size = 650
+num_hidden = 650
+dropout_probability = 0.6
+num_epochs = 25
+num_layers = 2
+num_tokens = len(corpus.dictionary)
+sequence_length = 40
+learning_rate = 10.0
+gradient_clipping = 0.3
+logging_interval = 250

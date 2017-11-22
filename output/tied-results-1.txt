@@ -1,0 +1,531 @@
+Epoch 1/25 batches: 250/2326 lr 10.00, loss 6.61, perplexity: 745.11
+
+Epoch 1/25 batches: 500/2326 lr 10.00, loss 4.94, perplexity: 139.67
+
+Epoch 1/25 batches: 750/2326 lr 10.00, loss 4.64, perplexity: 103.85
+
+Epoch 1/25 batches: 1000/2326 lr 10.00, loss 4.44, perplexity: 85.20
+
+Epoch 1/25 batches: 1250/2326 lr 10.00, loss 4.36, perplexity: 78.05
+
+Epoch 1/25 batches: 1500/2326 lr 10.00, loss 4.26, perplexity: 70.61
+
+Epoch 1/25 batches: 1750/2326 lr 10.00, loss 4.16, perplexity: 64.08
+
+Epoch 1/25 batches: 2000/2326 lr 10.00, loss 4.10, perplexity: 60.55
+
+Epoch 1/25 batches: 2250/2326 lr 10.00, loss 4.13, perplexity: 62.00
+
+============================================================================
+Epoch   1 results: time: 254.89s, validation loss  4.04, perplexity    56.93
+============================================================================
+/home/tyson/anaconda3/envs/ml/lib/python3.6/site-packages/torch/serialization.py:147: UserWarning: Couldn't retrieve source code for container of type RNNModel. It won't be checked for correctness upon loading.
+  "type " + obj.__name__ + ". It won't be checked "
+Epoch 2/25 batches: 250/2326 lr 10.00, loss 4.03, perplexity: 56.27
+
+Epoch 2/25 batches: 500/2326 lr 10.00, loss 3.93, perplexity: 50.71
+
+Epoch 2/25 batches: 750/2326 lr 10.00, loss 4.00, perplexity: 54.43
+
+Epoch 2/25 batches: 1000/2326 lr 10.00, loss 3.94, perplexity: 51.63
+
+Epoch 2/25 batches: 1250/2326 lr 10.00, loss 3.95, perplexity: 51.68
+
+Epoch 2/25 batches: 1500/2326 lr 10.00, loss 3.91, perplexity: 49.75
+
+Epoch 2/25 batches: 1750/2326 lr 10.00, loss 3.85, perplexity: 47.22
+
+Epoch 2/25 batches: 2000/2326 lr 10.00, loss 3.83, perplexity: 46.22
+
+Epoch 2/25 batches: 2250/2326 lr 10.00, loss 3.88, perplexity: 48.24
+
+============================================================================
+Epoch   2 results: time: 251.89s, validation loss  3.86, perplexity    47.53
+============================================================================
+Epoch 3/25 batches: 250/2326 lr 10.00, loss 3.82, perplexity: 45.71
+
+Epoch 3/25 batches: 500/2326 lr 10.00, loss 3.74, perplexity: 42.03
+
+Epoch 3/25 batches: 750/2326 lr 10.00, loss 3.83, perplexity: 45.89
+
+Epoch 3/25 batches: 1000/2326 lr 10.00, loss 3.79, perplexity: 44.05
+
+Epoch 3/25 batches: 1250/2326 lr 10.00, loss 3.79, perplexity: 44.43
+
+Epoch 3/25 batches: 1500/2326 lr 10.00, loss 3.76, perplexity: 43.16
+
+Epoch 3/25 batches: 1750/2326 lr 10.00, loss 3.72, perplexity: 41.45
+
+Epoch 3/25 batches: 2000/2326 lr 10.00, loss 3.71, perplexity: 40.88
+
+Epoch 3/25 batches: 2250/2326 lr 10.00, loss 3.76, perplexity: 42.80
+
+============================================================================
+Epoch   3 results: time: 251.65s, validation loss  3.78, perplexity    43.75
+============================================================================
+Epoch 4/25 batches: 250/2326 lr 10.00, loss 3.72, perplexity: 41.12
+
+Epoch 4/25 batches: 500/2326 lr 10.00, loss 3.64, perplexity: 38.10
+
+Epoch 4/25 batches: 750/2326 lr 10.00, loss 3.73, perplexity: 41.49
+
+Epoch 4/25 batches: 1000/2326 lr 10.00, loss 3.69, perplexity: 40.06
+
+Epoch 4/25 batches: 1250/2326 lr 10.00, loss 3.70, perplexity: 40.54
+
+Epoch 4/25 batches: 1500/2326 lr 10.00, loss 3.68, perplexity: 39.69
+
+Epoch 4/25 batches: 1750/2326 lr 10.00, loss 3.64, perplexity: 38.08
+
+Epoch 4/25 batches: 2000/2326 lr 10.00, loss 3.63, perplexity: 37.72
+
+Epoch 4/25 batches: 2250/2326 lr 10.00, loss 3.68, perplexity: 39.48
+
+============================================================================
+Epoch   4 results: time: 251.64s, validation loss  3.72, perplexity    41.43
+============================================================================
+Epoch 5/25 batches: 250/2326 lr 10.00, loss 3.64, perplexity: 38.10
+
+Epoch 5/25 batches: 500/2326 lr 10.00, loss 3.57, perplexity: 35.53
+
+Epoch 5/25 batches: 750/2326 lr 10.00, loss 3.65, perplexity: 38.60
+
+Epoch 5/25 batches: 1000/2326 lr 10.00, loss 3.63, perplexity: 37.55
+
+Epoch 5/25 batches: 1250/2326 lr 10.00, loss 3.64, perplexity: 37.97
+
+Epoch 5/25 batches: 1500/2326 lr 10.00, loss 3.62, perplexity: 37.31
+
+Epoch 5/25 batches: 1750/2326 lr 10.00, loss 3.58, perplexity: 35.72
+
+Epoch 5/25 batches: 2000/2326 lr 10.00, loss 3.57, perplexity: 35.56
+
+Epoch 5/25 batches: 2250/2326 lr 10.00, loss 3.62, perplexity: 37.22
+
+============================================================================
+Epoch   5 results: time: 252.04s, validation loss  3.69, perplexity    39.95
+============================================================================
+Epoch 6/25 batches: 250/2326 lr 10.00, loss 3.59, perplexity: 36.10
+
+Epoch 6/25 batches: 500/2326 lr 10.00, loss 3.52, perplexity: 33.75
+
+Epoch 6/25 batches: 750/2326 lr 10.00, loss 3.60, perplexity: 36.62
+
+Epoch 6/25 batches: 1000/2326 lr 10.00, loss 3.57, perplexity: 35.38
+
+Epoch 6/25 batches: 1250/2326 lr 10.00, loss 3.58, perplexity: 36.05
+
+Epoch 6/25 batches: 1500/2326 lr 10.00, loss 3.56, perplexity: 35.32
+
+Epoch 6/25 batches: 1750/2326 lr 10.00, loss 3.53, perplexity: 34.07
+
+Epoch 6/25 batches: 2000/2326 lr 10.00, loss 3.52, perplexity: 33.94
+
+Epoch 6/25 batches: 2250/2326 lr 10.00, loss 3.57, perplexity: 35.42
+
+============================================================================
+Epoch   6 results: time: 252.10s, validation loss  3.66, perplexity    38.95
+============================================================================
+Epoch 7/25 batches: 250/2326 lr 10.00, loss 3.54, perplexity: 34.49
+
+Epoch 7/25 batches: 500/2326 lr 10.00, loss 3.47, perplexity: 32.24
+
+Epoch 7/25 batches: 750/2326 lr 10.00, loss 3.55, perplexity: 34.88
+
+Epoch 7/25 batches: 1000/2326 lr 10.00, loss 3.53, perplexity: 33.97
+
+Epoch 7/25 batches: 1250/2326 lr 10.00, loss 3.54, perplexity: 34.58
+
+Epoch 7/25 batches: 1500/2326 lr 10.00, loss 3.52, perplexity: 33.89
+
+Epoch 7/25 batches: 1750/2326 lr 10.00, loss 3.49, perplexity: 32.63
+
+Epoch 7/25 batches: 2000/2326 lr 10.00, loss 3.48, perplexity: 32.59
+
+Epoch 7/25 batches: 2250/2326 lr 10.00, loss 3.53, perplexity: 34.12
+
+============================================================================
+Epoch   7 results: time: 252.41s, validation loss  3.64, perplexity    38.18
+============================================================================
+Epoch 8/25 batches: 250/2326 lr 10.00, loss 3.50, perplexity: 33.18
+
+Epoch 8/25 batches: 500/2326 lr 10.00, loss 3.44, perplexity: 31.24
+
+Epoch 8/25 batches: 750/2326 lr 10.00, loss 3.52, perplexity: 33.78
+
+Epoch 8/25 batches: 1000/2326 lr 10.00, loss 3.49, perplexity: 32.75
+
+Epoch 8/25 batches: 1250/2326 lr 10.00, loss 3.51, perplexity: 33.30
+
+Epoch 8/25 batches: 1500/2326 lr 10.00, loss 3.49, perplexity: 32.68
+
+Epoch 8/25 batches: 1750/2326 lr 10.00, loss 3.45, perplexity: 31.58
+
+Epoch 8/25 batches: 2000/2326 lr 10.00, loss 3.45, perplexity: 31.57
+
+Epoch 8/25 batches: 2250/2326 lr 10.00, loss 3.49, perplexity: 32.91
+
+============================================================================
+Epoch   8 results: time: 252.46s, validation loss  3.63, perplexity    37.71
+============================================================================
+Epoch 9/25 batches: 250/2326 lr 10.00, loss 3.47, perplexity: 32.15
+
+Epoch 9/25 batches: 500/2326 lr 10.00, loss 3.41, perplexity: 30.18
+
+Epoch 9/25 batches: 750/2326 lr 10.00, loss 3.48, perplexity: 32.59
+
+Epoch 9/25 batches: 1000/2326 lr 10.00, loss 3.46, perplexity: 31.72
+
+Epoch 9/25 batches: 1250/2326 lr 10.00, loss 3.48, perplexity: 32.35
+
+Epoch 9/25 batches: 1500/2326 lr 10.00, loss 3.46, perplexity: 31.75
+
+Epoch 9/25 batches: 1750/2326 lr 10.00, loss 3.42, perplexity: 30.66
+
+Epoch 9/25 batches: 2000/2326 lr 10.00, loss 3.42, perplexity: 30.58
+
+Epoch 9/25 batches: 2250/2326 lr 10.00, loss 3.47, perplexity: 32.01
+
+============================================================================
+Epoch   9 results: time: 252.39s, validation loss  3.63, perplexity    37.54
+============================================================================
+Epoch 10/25 batches: 250/2326 lr 10.00, loss 3.44, perplexity: 31.28
+
+Epoch 10/25 batches: 500/2326 lr 10.00, loss 3.38, perplexity: 29.47
+
+Epoch 10/25 batches: 750/2326 lr 10.00, loss 3.46, perplexity: 31.68
+
+Epoch 10/25 batches: 1000/2326 lr 10.00, loss 3.43, perplexity: 30.75
+
+Epoch 10/25 batches: 1250/2326 lr 10.00, loss 3.44, perplexity: 31.32
+
+Epoch 10/25 batches: 1500/2326 lr 10.00, loss 3.43, perplexity: 30.86
+
+Epoch 10/25 batches: 1750/2326 lr 10.00, loss 3.40, perplexity: 29.83
+
+Epoch 10/25 batches: 2000/2326 lr 10.00, loss 3.40, perplexity: 29.93
+
+Epoch 10/25 batches: 2250/2326 lr 10.00, loss 3.44, perplexity: 31.14
+
+============================================================================
+Epoch  10 results: time: 252.66s, validation loss  3.62, perplexity    37.19
+============================================================================
+Epoch 11/25 batches: 250/2326 lr 10.00, loss 3.42, perplexity: 30.49
+
+Epoch 11/25 batches: 500/2326 lr 10.00, loss 3.36, perplexity: 28.66
+
+Epoch 11/25 batches: 750/2326 lr 10.00, loss 3.43, perplexity: 30.80
+
+Epoch 11/25 batches: 1000/2326 lr 10.00, loss 3.40, perplexity: 30.05
+
+Epoch 11/25 batches: 1250/2326 lr 10.00, loss 3.42, perplexity: 30.58
+
+Epoch 11/25 batches: 1500/2326 lr 10.00, loss 3.41, perplexity: 30.14
+
+Epoch 11/25 batches: 1750/2326 lr 10.00, loss 3.37, perplexity: 29.15
+
+Epoch 11/25 batches: 2000/2326 lr 10.00, loss 3.37, perplexity: 29.18
+
+Epoch 11/25 batches: 2250/2326 lr 10.00, loss 3.41, perplexity: 30.40
+
+============================================================================
+Epoch  11 results: time: 252.81s, validation loss  3.61, perplexity    36.87
+============================================================================
+Epoch 12/25 batches: 250/2326 lr 10.00, loss 3.39, perplexity: 29.81
+
+Epoch 12/25 batches: 500/2326 lr 10.00, loss 3.33, perplexity: 28.06
+
+Epoch 12/25 batches: 750/2326 lr 10.00, loss 3.41, perplexity: 30.17
+
+Epoch 12/25 batches: 1000/2326 lr 10.00, loss 3.38, perplexity: 29.38
+
+Epoch 12/25 batches: 1250/2326 lr 10.00, loss 3.40, perplexity: 29.95
+
+Epoch 12/25 batches: 1500/2326 lr 10.00, loss 3.38, perplexity: 29.43
+
+Epoch 12/25 batches: 1750/2326 lr 10.00, loss 3.35, perplexity: 28.53
+
+Epoch 12/25 batches: 2000/2326 lr 10.00, loss 3.35, perplexity: 28.47
+
+Epoch 12/25 batches: 2250/2326 lr 10.00, loss 3.39, perplexity: 29.72
+
+============================================================================
+Epoch  12 results: time: 253.06s, validation loss  3.60, perplexity    36.77
+============================================================================
+Epoch 13/25 batches: 250/2326 lr 10.00, loss 3.37, perplexity: 29.19
+
+Epoch 13/25 batches: 500/2326 lr 10.00, loss 3.31, perplexity: 27.45
+
+Epoch 13/25 batches: 750/2326 lr 10.00, loss 3.38, perplexity: 29.40
+
+Epoch 13/25 batches: 1000/2326 lr 10.00, loss 3.36, perplexity: 28.74
+
+Epoch 13/25 batches: 1250/2326 lr 10.00, loss 3.38, perplexity: 29.41
+
+Epoch 13/25 batches: 1500/2326 lr 10.00, loss 3.36, perplexity: 28.86
+
+Epoch 13/25 batches: 1750/2326 lr 10.00, loss 3.33, perplexity: 27.95
+
+Epoch 13/25 batches: 2000/2326 lr 10.00, loss 3.33, perplexity: 27.94
+
+Epoch 13/25 batches: 2250/2326 lr 10.00, loss 3.37, perplexity: 29.12
+
+============================================================================
+Epoch  13 results: time: 253.41s, validation loss  3.60, perplexity    36.46
+============================================================================
+Epoch 14/25 batches: 250/2326 lr 10.00, loss 3.36, perplexity: 28.65
+
+Epoch 14/25 batches: 500/2326 lr 10.00, loss 3.30, perplexity: 27.00
+
+Epoch 14/25 batches: 750/2326 lr 10.00, loss 3.37, perplexity: 28.98
+
+Epoch 14/25 batches: 1000/2326 lr 10.00, loss 3.34, perplexity: 28.18
+
+Epoch 14/25 batches: 1250/2326 lr 10.00, loss 3.36, perplexity: 28.78
+
+Epoch 14/25 batches: 1500/2326 lr 10.00, loss 3.34, perplexity: 28.26
+
+Epoch 14/25 batches: 1750/2326 lr 10.00, loss 3.31, perplexity: 27.38
+
+Epoch 14/25 batches: 2000/2326 lr 10.00, loss 3.32, perplexity: 27.53
+
+Epoch 14/25 batches: 2250/2326 lr 10.00, loss 3.35, perplexity: 28.61
+
+============================================================================
+Epoch  14 results: time: 253.79s, validation loss  3.59, perplexity    36.41
+============================================================================
+Epoch 15/25 batches: 250/2326 lr 10.00, loss 3.34, perplexity: 28.11
+
+Epoch 15/25 batches: 500/2326 lr 10.00, loss 3.28, perplexity: 26.48
+
+Epoch 15/25 batches: 750/2326 lr 10.00, loss 3.35, perplexity: 28.41
+
+Epoch 15/25 batches: 1000/2326 lr 10.00, loss 3.32, perplexity: 27.61
+
+Epoch 15/25 batches: 1250/2326 lr 10.00, loss 3.34, perplexity: 28.30
+
+Epoch 15/25 batches: 1500/2326 lr 10.00, loss 3.33, perplexity: 27.90
+
+Epoch 15/25 batches: 1750/2326 lr 10.00, loss 3.29, perplexity: 26.94
+
+Epoch 15/25 batches: 2000/2326 lr 10.00, loss 3.29, perplexity: 26.96
+
+Epoch 15/25 batches: 2250/2326 lr 10.00, loss 3.33, perplexity: 28.06
+
+============================================================================
+Epoch  15 results: time: 254.02s, validation loss  3.60, perplexity    36.45
+============================================================================
+Epoch 16/25 batches: 250/2326 lr 2.50, loss 3.31, perplexity: 27.42
+
+Epoch 16/25 batches: 500/2326 lr 2.50, loss 3.24, perplexity: 25.53
+
+Epoch 16/25 batches: 750/2326 lr 2.50, loss 3.29, perplexity: 26.84
+
+Epoch 16/25 batches: 1000/2326 lr 2.50, loss 3.26, perplexity: 26.00
+
+Epoch 16/25 batches: 1250/2326 lr 2.50, loss 3.28, perplexity: 26.45
+
+Epoch 16/25 batches: 1500/2326 lr 2.50, loss 3.24, perplexity: 25.66
+
+Epoch 16/25 batches: 1750/2326 lr 2.50, loss 3.21, perplexity: 24.68
+
+Epoch 16/25 batches: 2000/2326 lr 2.50, loss 3.20, perplexity: 24.52
+
+Epoch 16/25 batches: 2250/2326 lr 2.50, loss 3.23, perplexity: 25.29
+
+============================================================================
+Epoch  16 results: time: 253.65s, validation loss  3.57, perplexity    35.37
+============================================================================
+Epoch 17/25 batches: 250/2326 lr 2.50, loss 3.26, perplexity: 26.01
+
+Epoch 17/25 batches: 500/2326 lr 2.50, loss 3.20, perplexity: 24.45
+
+Epoch 17/25 batches: 750/2326 lr 2.50, loss 3.26, perplexity: 25.98
+
+Epoch 17/25 batches: 1000/2326 lr 2.50, loss 3.23, perplexity: 25.17
+
+Epoch 17/25 batches: 1250/2326 lr 2.50, loss 3.25, perplexity: 25.81
+
+Epoch 17/25 batches: 1500/2326 lr 2.50, loss 3.23, perplexity: 25.17
+
+Epoch 17/25 batches: 1750/2326 lr 2.50, loss 3.19, perplexity: 24.20
+
+Epoch 17/25 batches: 2000/2326 lr 2.50, loss 3.19, perplexity: 24.17
+
+Epoch 17/25 batches: 2250/2326 lr 2.50, loss 3.22, perplexity: 25.00
+
+============================================================================
+Epoch  17 results: time: 254.28s, validation loss  3.56, perplexity    35.24
+============================================================================
+Epoch 18/25 batches: 250/2326 lr 2.50, loss 3.24, perplexity: 25.52
+
+Epoch 18/25 batches: 500/2326 lr 2.50, loss 3.18, perplexity: 24.01
+
+Epoch 18/25 batches: 750/2326 lr 2.50, loss 3.24, perplexity: 25.51
+
+Epoch 18/25 batches: 1000/2326 lr 2.50, loss 3.21, perplexity: 24.71
+
+Epoch 18/25 batches: 1250/2326 lr 2.50, loss 3.23, perplexity: 25.33
+
+Epoch 18/25 batches: 1500/2326 lr 2.50, loss 3.21, perplexity: 24.75
+
+Epoch 18/25 batches: 1750/2326 lr 2.50, loss 3.17, perplexity: 23.91
+
+Epoch 18/25 batches: 2000/2326 lr 2.50, loss 3.17, perplexity: 23.79
+
+Epoch 18/25 batches: 2250/2326 lr 2.50, loss 3.21, perplexity: 24.71
+
+============================================================================
+Epoch  18 results: time: 254.70s, validation loss  3.56, perplexity    35.19
+============================================================================
+Epoch 19/25 batches: 250/2326 lr 2.50, loss 3.22, perplexity: 25.07
+
+Epoch 19/25 batches: 500/2326 lr 2.50, loss 3.16, perplexity: 23.66
+
+Epoch 19/25 batches: 750/2326 lr 2.50, loss 3.23, perplexity: 25.28
+
+Epoch 19/25 batches: 1000/2326 lr 2.50, loss 3.19, perplexity: 24.40
+
+Epoch 19/25 batches: 1250/2326 lr 2.50, loss 3.22, perplexity: 24.97
+
+Epoch 19/25 batches: 1500/2326 lr 2.50, loss 3.20, perplexity: 24.49
+
+Epoch 19/25 batches: 1750/2326 lr 2.50, loss 3.16, perplexity: 23.66
+
+Epoch 19/25 batches: 2000/2326 lr 2.50, loss 3.16, perplexity: 23.58
+
+Epoch 19/25 batches: 2250/2326 lr 2.50, loss 3.20, perplexity: 24.44
+
+============================================================================
+Epoch  19 results: time: 255.02s, validation loss  3.56, perplexity    35.19
+============================================================================
+Epoch 20/25 batches: 250/2326 lr 2.50, loss 3.21, perplexity: 24.75
+
+Epoch 20/25 batches: 500/2326 lr 2.50, loss 3.15, perplexity: 23.45
+
+Epoch 20/25 batches: 750/2326 lr 2.50, loss 3.21, perplexity: 24.87
+
+Epoch 20/25 batches: 1000/2326 lr 2.50, loss 3.18, perplexity: 24.15
+
+Epoch 20/25 batches: 1250/2326 lr 2.50, loss 3.21, perplexity: 24.66
+
+Epoch 20/25 batches: 1500/2326 lr 2.50, loss 3.19, perplexity: 24.22
+
+Epoch 20/25 batches: 1750/2326 lr 2.50, loss 3.15, perplexity: 23.41
+
+Epoch 20/25 batches: 2000/2326 lr 2.50, loss 3.16, perplexity: 23.47
+
+Epoch 20/25 batches: 2250/2326 lr 2.50, loss 3.19, perplexity: 24.27
+
+============================================================================
+Epoch  20 results: time: 255.21s, validation loss  3.56, perplexity    35.21
+============================================================================
+Epoch 21/25 batches: 250/2326 lr 0.62, loss 3.20, perplexity: 24.65
+
+Epoch 21/25 batches: 500/2326 lr 0.62, loss 3.15, perplexity: 23.27
+
+Epoch 21/25 batches: 750/2326 lr 0.62, loss 3.21, perplexity: 24.69
+
+Epoch 21/25 batches: 1000/2326 lr 0.62, loss 3.17, perplexity: 23.90
+
+Epoch 21/25 batches: 1250/2326 lr 0.62, loss 3.19, perplexity: 24.33
+
+Epoch 21/25 batches: 1500/2326 lr 0.62, loss 3.17, perplexity: 23.76
+
+Epoch 21/25 batches: 1750/2326 lr 0.62, loss 3.13, perplexity: 22.91
+
+Epoch 21/25 batches: 2000/2326 lr 0.62, loss 3.13, perplexity: 22.83
+
+Epoch 21/25 batches: 2250/2326 lr 0.62, loss 3.16, perplexity: 23.58
+
+============================================================================
+Epoch  21 results: time: 255.59s, validation loss  3.55, perplexity    34.86
+============================================================================
+Epoch 22/25 batches: 250/2326 lr 0.62, loss 3.19, perplexity: 24.30
+
+Epoch 22/25 batches: 500/2326 lr 0.62, loss 3.13, perplexity: 22.97
+
+Epoch 22/25 batches: 750/2326 lr 0.62, loss 3.19, perplexity: 24.35
+
+Epoch 22/25 batches: 1000/2326 lr 0.62, loss 3.16, perplexity: 23.68
+
+Epoch 22/25 batches: 1250/2326 lr 0.62, loss 3.19, perplexity: 24.17
+
+Epoch 22/25 batches: 1500/2326 lr 0.62, loss 3.16, perplexity: 23.67
+
+Epoch 22/25 batches: 1750/2326 lr 0.62, loss 3.13, perplexity: 22.87
+
+Epoch 22/25 batches: 2000/2326 lr 0.62, loss 3.12, perplexity: 22.72
+
+Epoch 22/25 batches: 2250/2326 lr 0.62, loss 3.16, perplexity: 23.49
+
+============================================================================
+Epoch  22 results: time: 255.72s, validation loss  3.55, perplexity    34.86
+============================================================================
+Epoch 23/25 batches: 250/2326 lr 0.62, loss 3.18, perplexity: 24.12
+
+Epoch 23/25 batches: 500/2326 lr 0.62, loss 3.13, perplexity: 22.88
+
+Epoch 23/25 batches: 750/2326 lr 0.62, loss 3.19, perplexity: 24.24
+
+Epoch 23/25 batches: 1000/2326 lr 0.62, loss 3.16, perplexity: 23.61
+
+Epoch 23/25 batches: 1250/2326 lr 0.62, loss 3.18, perplexity: 24.07
+
+Epoch 23/25 batches: 1500/2326 lr 0.62, loss 3.16, perplexity: 23.49
+
+Epoch 23/25 batches: 1750/2326 lr 0.62, loss 3.13, perplexity: 22.79
+
+Epoch 23/25 batches: 2000/2326 lr 0.62, loss 3.12, perplexity: 22.70
+
+Epoch 23/25 batches: 2250/2326 lr 0.62, loss 3.15, perplexity: 23.40
+
+============================================================================
+Epoch  23 results: time: 255.59s, validation loss  3.55, perplexity    34.84
+============================================================================
+Epoch 24/25 batches: 250/2326 lr 0.62, loss 3.18, perplexity: 24.01
+
+Epoch 24/25 batches: 500/2326 lr 0.62, loss 3.12, perplexity: 22.69
+
+Epoch 24/25 batches: 750/2326 lr 0.62, loss 3.18, perplexity: 24.16
+
+Epoch 24/25 batches: 1000/2326 lr 0.62, loss 3.15, perplexity: 23.44
+
+Epoch 24/25 batches: 1250/2326 lr 0.62, loss 3.18, perplexity: 23.94
+
+Epoch 24/25 batches: 1500/2326 lr 0.62, loss 3.15, perplexity: 23.38
+
+Epoch 24/25 batches: 1750/2326 lr 0.62, loss 3.12, perplexity: 22.66
+
+Epoch 24/25 batches: 2000/2326 lr 0.62, loss 3.12, perplexity: 22.63
+
+Epoch 24/25 batches: 2250/2326 lr 0.62, loss 3.15, perplexity: 23.36
+
+============================================================================
+Epoch  24 results: time: 256.03s, validation loss  3.55, perplexity    34.83
+============================================================================
+Epoch 25/25 batches: 250/2326 lr 0.62, loss 3.17, perplexity: 23.89
+
+Epoch 25/25 batches: 500/2326 lr 0.62, loss 3.12, perplexity: 22.63
+
+Epoch 25/25 batches: 750/2326 lr 0.62, loss 3.18, perplexity: 23.98
+
+Epoch 25/25 batches: 1000/2326 lr 0.62, loss 3.15, perplexity: 23.36
+
+Epoch 25/25 batches: 1250/2326 lr 0.62, loss 3.17, perplexity: 23.79
+
+Epoch 25/25 batches: 1500/2326 lr 0.62, loss 3.15, perplexity: 23.38
+
+Epoch 25/25 batches: 1750/2326 lr 0.62, loss 3.12, perplexity: 22.55
+
+Epoch 25/25 batches: 2000/2326 lr 0.62, loss 3.12, perplexity: 22.57
+
+Epoch 25/25 batches: 2250/2326 lr 0.62, loss 3.15, perplexity: 23.36
+
+============================================================================
+Epoch  25 results: time: 256.13s, validation loss  3.55, perplexity    34.82
+============================================================================
+/home/tyson/anaconda3/envs/ml/lib/python3.6/site-packages/ipykernel/__main__.py:49: UserWarning: RNN module weights are not part of single contiguous chunk of memory. This means they need to be compacted at every call, possibly greately increasing memory usage. To compact weights again call flatten_parameters().
+===========================================================================
+/n End of training. Test loss:  3.59, Test perplexity:    36.13
+===========================================================================
